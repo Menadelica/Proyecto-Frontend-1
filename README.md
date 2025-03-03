@@ -1,2 +1,2 @@
-# Proyecto-Frontend-1
+# Proyecto APP ahorros
 Proyecto evaluativo Frontend 1 Jimena Noreña
